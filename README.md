@@ -39,6 +39,13 @@ Puis ERZA (Titania) de Fairy tail.</br>
 + Dans une des maisons on trouve un pingouin Jaune qui regenere de 10 pv.
 + Dans le donjon juste avant la fin se trouve cache le pokemon <em>Mewto</em>
 
+#boss
++ Zork (mini boss) <img src = "src/image/Personnage/mechant/mechant.png">
++ Link gardien <img src = "src/image/Personnage/Link/Lmagik.png">
++ Dark Didi <img src = "src/image/Personnage/pavel2/pmarche.png">
++ Titania <img src = "src/image/Personnage/erza/Erstand.png">
++ Demon bleu (boss final) <img src = "src/image/Personnage//boss/boss1.png">
+
 #attaques
 De nombreuses attaques sont disponibles :</br>
 <em>Didi(FILS DE FELIX) et CYNTHIA</em>
