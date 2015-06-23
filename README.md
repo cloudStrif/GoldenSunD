@@ -59,7 +59,6 @@ De nombreuses attaques sont disponibles :</br>
 + 10 PV pour toute l'equipe et <em>2 sort speciaux tres puissant.</em></br>
 
 </br>
-Le jeu est tres difficile(on ne sais pas les points de degats et a part le roi du jeu personne ne l'a gagne.)</br>
 
 
 </br>
