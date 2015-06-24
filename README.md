@@ -3,7 +3,8 @@
 #Next Generation</br>
 jeu Golden Sun .</br>
  
-
+#Attention 
+La gestion du son ettant mauvaise en java lancer les fichier nosound
 #Pour lancer le programme
 il faut 
 sous Windows :</br>
