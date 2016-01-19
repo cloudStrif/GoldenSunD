@@ -2,6 +2,7 @@
 <img src="src/image/Personnage/pavel/sun.png">
 #Next Generation</br>
 jeu Golden Sun .</br>
+ http://www.palaiszelda.com/jeux_amateurs_2.php#linkBrother
  
 #Attention 
 La gestion du son ettant mauvaise en java lancer les fichier nosound
